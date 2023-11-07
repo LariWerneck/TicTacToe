@@ -7,4 +7,5 @@
 ## ❌|⭕|⭕
 ## ⭕|⭕|⭕
 ## ⭕|⭕|⭕
-   
+
+   O projeto consiste em um jogo da velha implementado em C#, oferecendo uma experiência divertida e competitiva para dois jogadores. O jogo permite que os jogadores alternem suas jogadas, marcando suas posições no tabuleiro e competindo para alcançar a vitória. Além disso, o projeto inclui a contagem de pontos entre os jogadores e a realização de várias partidas. Os jogadores são desafiados a demonstrar suas habilidades estratégicas e lógicas, com o objetivo de vencer o jogo e alcançar a melhor pontuação em uma série de partidas. Uma interface simples e intuitiva, dentro do próprio console, torna a experiência de jogo agradável e envolvente.
